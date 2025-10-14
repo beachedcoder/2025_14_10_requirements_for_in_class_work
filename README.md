@@ -20,4 +20,6 @@
 - inbound data format should not be echoed by internal format, DTO pattern used for inbound data
 - internal data will eventually need to be processed into repository
 - all behavior will be required to be proven through testing
-
+- logging centrally - error / info logs
+- produce input processing report (records processed, records failed)
+- 
