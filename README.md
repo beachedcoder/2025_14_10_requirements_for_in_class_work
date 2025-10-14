@@ -13,6 +13,11 @@
 
 ### architecture needs
 - we need two or more web services to support client / business partners application
+- service will follow microservice architecture
 - each web service will need to receive data (posting of batch raw data or file submission)
 - each service will need to then process into an internal format (fake company domain data structure to share within fake company applications)
 - validation for each received record is required
+- inbound data format should not be echoed by internal format, DTO pattern used for inbound data
+- internal data will eventually need to be processed into repository
+- all behavior will be required to be proven through testing
+
