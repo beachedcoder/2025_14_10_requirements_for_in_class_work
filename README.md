@@ -38,4 +38,5 @@
 - [Spring Restful Service with Couple of tests](https://github.com/beachedcoder/2025_14_10_demo_restful_spring)
 - [Warehouse Operations Management Service](https://github.com/beachedcoder/2025_14_10_demo_wareops.git)
 -  will finish up the other demos from class and post here
+-  TODO: @Nathan build action workflows for docker to publish
   
