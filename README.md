@@ -33,3 +33,6 @@
 - or cargo ship management for international shipping company
 - or transaction batch process for multiple transaction types: trade, account, exchange monies
 - or your idea here .....
+
+## examples built on the fly during session
+- [Spring Restful Service with Couple of tests](https://github.com/beachedcoder/2025_14_10_demo_restful_spring)
