@@ -36,3 +36,6 @@
 
 ## examples built on the fly during session
 - [Spring Restful Service with Couple of tests](https://github.com/beachedcoder/2025_14_10_demo_restful_spring)
+- [Warehouse Operations Management Service](https://github.com/beachedcoder/2025_14_10_demo_wareops.git)
+-  will finish up the other demos from class and post here
+  
